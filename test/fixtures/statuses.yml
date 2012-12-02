@@ -1,7 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  content: MyText
+  content: Status one
+  user: willhc
 
 two:
-  content: MyText
+  content: Status two
+  user: willhc
