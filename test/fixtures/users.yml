@@ -4,3 +4,8 @@ willhc:
     email: "williamhumphreyscloutier@gmail.com"
     profile_name: "willhc"
 
+test_user123:
+    first_name: "Bill"
+    last_name: "Bob"
+    email: "billy_bob@test.qa"
+    profile_name: test_user123
