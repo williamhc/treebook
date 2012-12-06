@@ -9,3 +9,9 @@ test_user123:
     last_name: "Bob"
     email: "billy_bob@test.qa"
     profile_name: test_user123
+
+macjagga:
+    first_name: "Mac"
+    last_name: "Jagger"
+    email: "mac_daddy@test.qa"
+    profile_name: macjagga
